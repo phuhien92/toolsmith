@@ -17,8 +17,10 @@ Design phase. Nothing runs yet. The design record so far:
 
 - [`CONTEXT.md`](CONTEXT.md) — the vocabulary (Declared tool, Built tool, Contract, Version, Re-check, …)
 - [`docs/adr/`](docs/adr/) — decisions and why
-- [`docs/research/idea-analysis.md`](docs/research/idea-analysis.md) — is this worth building? (with
-  the research notes behind it in `docs/research/notes/`)
+- [`docs/research/idea-analysis.md`](docs/research/idea-analysis.md) — is this worth building?
+- [`docs/research/technical-architecture.md`](docs/research/technical-architecture.md) — how to build it:
+  pinned versions, layers, pipelines, spikes, build order
+- `docs/research/notes/` — the research notes behind both
 
 ## Why
 
