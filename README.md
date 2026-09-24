@@ -21,7 +21,8 @@ Design phase. Nothing runs yet. The design record so far:
 - [`docs/research/technical-architecture.md`](docs/research/technical-architecture.md) — how to build it:
   pinned versions, layers, pipelines, spikes, build order
 - `docs/research/notes/` — the research notes behind both
-- [`docs/demo.md`](docs/demo.md) — the showcase demo: build tools on longcut.ai, then call them from Claude Code
+- [`docs/demo.md`](docs/demo.md) — the two showcase demos (LongCut, and Greenhouse/Lever job boards) and the
+  Site caution list
 
 ## Why
 

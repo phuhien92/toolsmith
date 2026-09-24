@@ -12,6 +12,11 @@ server; the app itself has no chat.
 An origin (e.g. `github.com`) opened in Toolsmith's built-in browser. Every tool belongs to one Site.
 _Avoid_: website, domain, origin (in UI copy)
 
+**Site caution**:
+A warning Toolsmith shows before Builder explores a Site whose terms prohibit automation, carried into the
+Contract of any tool built there. It warns; it never blocks.
+_Avoid_: blocklist, ban, restriction
+
 **Declared tool**:
 A tool the Site itself exposes through WebMCP. Toolsmith reads it and never authors or edits it.
 _Avoid_: native tool, site tool, page tool
